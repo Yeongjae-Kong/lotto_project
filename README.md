@@ -34,19 +34,25 @@ src/
 ├── index.css            # Global styles
 ├── main.tsx             # Application entry point
 └── vite-env.d.ts        # Vite environment types
+```
 
-🌟 Features
-Interactive UI: Smooth animations powered by Framer Motion.
+----
+
+## 🌟 Features
 Lotto Simulation: Realistic logic with reusable utility functions.
+
+Interactive UI: Smooth animations powered by Framer Motion.
+
 Responsive Design: Fully responsive UI with TailwindCSS.
+
 Type Safety: Robust typing with TypeScript.
-🛠️ Getting Started
+
+## 🛠️ Getting Started
 Prerequisites
 Node.js (v16 or higher)
 Yarn or npm
-Installation
-bash
-# Clone the repository
+#### Installation
+``` # Clone the repository
 git clone https://github.com/your-repo/lotto-project.git
 
 # Navigate to the project directory
@@ -54,19 +60,24 @@ cd lotto-project
 
 # Install dependencies
 npm install
-Run the Project
-bash
-코드 복사
+```
+#### Run the Project
+```
 # Start the development server
 npm run dev
-Build for Production
-bash
-코드 복사
+```
+
+#### Build for Production
+```
 npm run build
-🤝 Contributing
+```
+
+## 🤝 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for feature requests and bug fixes.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-Made by yeongjaekong.
+---
+
+### Made by yeongjaekong
