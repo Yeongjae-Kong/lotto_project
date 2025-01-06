@@ -1,8 +1,8 @@
-Sites: https://lotto-project-eight.vercel.app/
+https://lotto-project-eight.vercel.app/
 
 # Lotto Project 🎲
 
-Welcome to the **Lotto Project**, a modern and interactive web application designed to simulate lotto logic and present results in a clean, user-friendly interface. Built with cutting-edge technologies, this project showcases reusable components, scalable architecture, and stylish design.
+Welcome to the **Lotto Project**, a modern and interactive web application designed to simulate lotto logic and present results in a clean, user-friendly interface. Built with cutting-edge technologies, this project showcases reusable components, scalable architecture, and modern design.
 
 ---
 
