@@ -1,3 +1,4 @@
+Sites: https://lotto-project-eight.vercel.app/
 
 # Lotto Project 🎲
 
@@ -53,7 +54,7 @@ Node.js (v16 or higher)
 Yarn or npm
 #### Installation
 ``` # Clone the repository
-git clone https://github.com/your-repo/lotto-project.git
+git clone https://github.com/Yeongjae-Kong/lotto_project.git
 
 # Navigate to the project directory
 cd lotto-project
